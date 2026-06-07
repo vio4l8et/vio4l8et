@@ -19,7 +19,7 @@
 
 - B.S. in Artificial Intelligence, Konyang University
 - Undergraduate Researcher at MIND Lab
-- Interested in Physical AI, Embodied AI, Multimodal Learning and Computer Vision
+- Interested in Physical AI, Embodied AI, Vision-Language Learning and Computer Vision
 
 
 ## Publications
@@ -42,15 +42,13 @@
 
 ## Projects
 
----
-
 - **환자의 자세 변화 감지와 압력 센서 기반 욕창 예방 AI**
   - Pose Estimation + Pressure Sensor
   - Blanket Occlusion Mitigation using GCN
   - Arduino-based Pressure Sensing and Heatmap Visualization
 
 - **YOLOv11 기반 실시간 탐지 및 산불 성장 단계 분류 시스템**
-  - Real-time
+  - Real-time Fire Detection
   - Fire & Smoke Pattern Analysis
   - Five-stage Fire Growth Classification
   
@@ -64,8 +62,6 @@
   - Contrastive Top-K Guidance (CTG)
   - Training-free Logit Refinement
 
-  
----
 
 ## Awards
 
@@ -78,13 +74,13 @@
 - **2025 건양대학교 창업 아이디어 경진대회**
   <br> 대상
 
----
 
 ## Skills
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 
