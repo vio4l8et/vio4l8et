@@ -19,7 +19,7 @@
 
 - B.S. in Artificial Intelligence, Konyang University
 - Undergraduate Researcher at MIND Lab
-- Interested in Physical AI, Embodied AI, Vision-Language Learning and Computer Vision
+- Interested in Physical AI, Embodied AI, Vision-Language Learning, Human-Robot Interaction, Computer Vision
 
 
 ## Publications
