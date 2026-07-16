@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=KEUN-HYUK+JANG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=1&pause=999999&color=6E7781&center=true&vCenter=true&repeat=false&width=800&lines=KEUN-HYUK+JANG" />
 </p>
 
 Undergraduate Researcher at MIND Lab, Konyang University
